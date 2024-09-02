@@ -38,7 +38,6 @@
   border-radius: 4px;
   text-shadow: #fff 3px 0 15px;
   padding: 3px 6px 1px;
-  transition: 500ms ease-in;
 }
 
 .window-button > StWidget {
@@ -58,31 +57,26 @@
 .window-button:focus > StWidget {
   color: #fff;
   background-color: #3f3f3f;
-  transition: 500ms ease-in;
 }
 
 .window-button.focused > StWidget {
   color: #fff;
   background-color: #3f3f3f;
-  transition: 500ms ease-in;
 }
 
 .window-button.focused:active > StWidget {
   color: #fff;
   background-color: #3f3f3f;
-  transition: 500ms ease-in;
 }
 
 .window-button.minimized > StWidget {
   color: #000;
   background-color: #161616;
-  transition: 500ms ease-in;
 }
 
 .window-button.minimized:active > StWidget {
   color:  #10131c;
   background-color: #161616;
-  transition: 500ms ease-in;
 }
 
 .window-button-icon {
