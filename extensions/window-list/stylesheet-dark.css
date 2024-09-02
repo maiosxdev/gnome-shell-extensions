@@ -49,7 +49,7 @@
   color: #000;
   background-color: #303030;
   transition: 500ms ease-in;
-    text-shadow: #3584E4 3px 0 15px;
+  text-shadow: #3584E4 3px 0 15px;
 }
 
 .window-button:active > StWidget,
