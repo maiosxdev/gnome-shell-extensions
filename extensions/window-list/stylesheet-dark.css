@@ -43,7 +43,6 @@
 .window-button > StWidget {
   -st-natural-width: 18.75em;
   max-width: 18.75em;
-  transition: 500ms ease-in;
 }
 
 .window-button:hover > StWidget {
